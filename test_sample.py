@@ -2,7 +2,8 @@ def add(a:int, b:int):
     '''Function to add two numbers'''
     return a + b
 
-
+def do():
+    pass
 def test_add_positive_integers():
     assert add(1,2) == 3
 
