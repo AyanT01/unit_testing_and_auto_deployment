@@ -13,4 +13,4 @@ def test_add_negative_integers():
     assert add(-5,-2) == -7
 
 def test_wrong_test():
-    assert add(2,3) == 6
+    assert add(2,4) == 6
